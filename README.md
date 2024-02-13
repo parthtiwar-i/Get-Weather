@@ -2,6 +2,9 @@
 
 This Weather App is a React-based web application designed to provide users with up-to-date weather information for their city. It utilizes the OpenWeather API to fetch weather data and Material-UI for user interface design. Context API is employed for state management across the application.
 
+### Live Link
+- https://get-weather-liart.vercel.app/
+
 ## Features
 
 - **City-based Weather Information**: Users can enter their city name to get the current weather conditions including temperature, description, humidity, wind speed, and more.
@@ -30,4 +33,6 @@ git clone https://github.com/parthtiwar-i/Get-Weather/.git
 
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn:
+
+3. **Run** : 'npm run dev'  
 
