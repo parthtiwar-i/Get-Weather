@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Roboto+Condensed:wght@300;400;700&display=swap");
+body {
+  margin: 0;
+  font-family: "Poppins", Arial, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-height: 100vh;
+  background-image: url("https://img.freepik.com/free-photo/beautiful-clouded-sky-pink-shades_23-2148282574.jpg?w=996&t=st=1707742395~exp=1707742995~hmac=cfe44a7f1991f2274dae45b1a447b84a655266aff8578e8f4fa8d81658db4ad5");
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
