@@ -1,15 +1,15 @@
-const apiKey = process.env.WEATHER_API_KEY;
+const apiKey = import.meta.env.VITE_API_KEY
 
-const GEO_API_URL = "https://wft-geo-db.p.rapidapi.com/v1/geo";
+const GEO_API_URL = 'https://wft-geo-db.p.rapidapi.com/v1/geo';
 
-const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5";
+const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5';
 const WEATHER_API_KEY = apiKey;
 
 const GEO_API_OPTIONS = {
-  method: "GET",
+  method: 'GET',
   headers: {
-    "X-RapidAPI-Key": "4f0dcce84bmshac9e329bd55fd14p17ec6fjsnff18c2e61917",
-    "X-RapidAPI-Host": "wft-geo-db.p.rapidapi.com",
+    'X-RapidAPI-Key': '4f0dcce84bmshac9e329bd55fd14p17ec6fjsnff18c2e61917',
+    'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com',
   },
 };
 
