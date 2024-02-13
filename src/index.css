@@ -9,7 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
   min-height: 100vh;
-  background-image: url("https://img.freepik.com/free-photo/beautiful-clouded-sky-pink-shades_23-2148282574.jpg?w=996&t=st=1707742395~exp=1707742995~hmac=cfe44a7f1991f2274dae45b1a447b84a655266aff8578e8f4fa8d81658db4ad5");
+  background-image: url("../src/assets/weather-background.jpg");
   background-size: cover;
 }
 
