@@ -102,7 +102,7 @@ const Home = () => {
               lineHeight: { xs: "1.5rem", sm: "2.5rem" },
             }}
           >
-            Welcome to Pype-Ai weather portal. Get your area's weather details!
+            Welcome to weather portal. Get your area's weather details!
           </Typography>
         </Box>
         <Grid item xs={12}>
